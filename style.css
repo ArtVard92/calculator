@@ -1,7 +1,7 @@
 .calc{
     width:350px;
     height:500px;
-    background-color: burlywood ;
+    background-color: red ;
     margin: 0 auto;
  
     padding: 20px;
@@ -39,6 +39,7 @@
     color: #fff;
     font-size: 40px;
     cursor: pointer;
+    border-radius: 50%;
    
 }
 
